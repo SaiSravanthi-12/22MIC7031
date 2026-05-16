@@ -58,8 +58,4 @@ The backend API supports query parameters for:
 - `page`
 - `notification_type`
 
-## Notes
 
-This project should serve as a full-stack campus notification management system with notification prioritization, type filtering, and real-time-style handling.
-
-If you want, I can also add the `Notification_System_Design.md` file and wire the API query parameters into the frontend filter/pagination implementation.
